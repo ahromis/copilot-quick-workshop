@@ -1,6 +1,6 @@
 ---
 mode: agent
-description: Scaffold a new FastAPI endpoint that follows Nationwide standards.
+description: Scaffold a new FastAPI endpoint that follows our repo standards.
 ---
 
 # Add Endpoint

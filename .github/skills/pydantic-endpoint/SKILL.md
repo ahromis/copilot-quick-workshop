@@ -1,11 +1,11 @@
 ---
 name: pydantic-endpoint
-description: Use when the user asks to add, scaffold, or create a new FastAPI/HTTP endpoint, route, or API handler in this repo. Ensures the endpoint follows Nationwide standards (Pydantic v2 validation, structured logging, OpenAPI docs, security limits, and accompanying pytest test).
+description: Use when the user asks to add, scaffold, or create a new FastAPI/HTTP endpoint, route, or API handler in this repo. Ensures the endpoint follows our repo standards (Pydantic v2 validation, structured logging, OpenAPI docs, security limits, and accompanying pytest test).
 ---
 
 # Skill: Compliant Pydantic Endpoint
 
-You are scaffolding a new HTTP endpoint in a Nationwide service. Follow these
+You are scaffolding a new HTTP endpoint in this service. Follow these
 steps **in order** and do not skip any. If a step does not apply, state why.
 
 ## Checklist

@@ -1,4 +1,4 @@
-# GitHub Copilot Instructions for Nationwide
+# GitHub Copilot Instructions
 
 ## Code Standards
 - Use Python 3.12+ features and type hints throughout
@@ -9,7 +9,7 @@
 
 ## Security Requirements
 - All user inputs must be validated with Pydantic models with explicit size/range limits
-- CORS must be restricted to approved Nationwide domains
+- CORS must be restricted to an explicit allowlist of approved domains
 - Never log sensitive data (PII, credentials, tokens)
 - All Dockerfiles must use non-root users
 

@@ -1,6 +1,6 @@
-# Nationwide Copilot Hackday
+# Quick Copilot Hackday
 
-A self-contained **20-minute GitHub Copilot workshop** focused on **Agent mode**, **Plan mode**, and **Agent Skills**, plus the customization files (`copilot-instructions.md`, `*.instructions.md`, `*.prompt.md`, `SKILL.md`) that steer Copilot toward Nationwide's standards.
+A self-contained **20-minute GitHub Copilot workshop** focused on **Agent mode**, **Plan mode**, and **Agent Skills**, plus the customization files (`copilot-instructions.md`, `*.instructions.md`, `*.prompt.md`, `SKILL.md`) that steer Copilot toward your team's standards.
 
 The repo doubles as a working example: the customization files in [.github/](.github/) are real and active when you open this folder in VS Code with the Copilot Chat extension.
 
