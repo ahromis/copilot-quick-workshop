@@ -63,7 +63,7 @@ When it finishes, open the diff and check:
 | Symptom | Fix |
 |---|---|
 | No mode picker visible | Update the GitHub Copilot Chat extension. |
-| Plan mode tries to edit | You're in Agent mode \u2014 check the picker. |
+| Plan mode tries to edit | You're in Agent mode — check the picker. |
 | Skill didn't load | Reword your prompt to mention "endpoint" or "route" explicitly. |
 | Test run not offered | Tell it: "run the tests in the terminal." |
 | Output doesn't match standards | Open [.github/copilot-instructions.md](../.github/copilot-instructions.md) and confirm it's not empty. |
@@ -73,7 +73,7 @@ When it finishes, open the diff and check:
 
 ## What to take home
 
-- **Ask** \u2192 learn. **Plan** \u2192 scope. **Agent** \u2192 do.
+- **Ask** → learn. **Plan** → scope. **Agent** → do.
 - The repo's standards live in [.github/copilot-instructions.md](../.github/copilot-instructions.md) and apply to **every** request.
 - The [.github/skills/pydantic-endpoint/SKILL.md](../.github/skills/pydantic-endpoint/SKILL.md) skill loads automatically because its `description` matches "add an endpoint" tasks.
 - See [cheatsheet.md](cheatsheet.md) for the one-page summary.
