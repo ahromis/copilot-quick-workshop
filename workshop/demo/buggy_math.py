@@ -1,4 +1,4 @@
-"""Intentionally buggy module for the Copilot Agent demo.
+"""Intentionally buggy module for the GitHub Copilot Agent demo.
 
 Bug: `average` divides by len(values) without handling the empty case
 and uses integer division, which truncates results.

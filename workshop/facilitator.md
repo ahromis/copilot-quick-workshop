@@ -74,7 +74,7 @@ Key line:
 ## 9:00 — Customization layers (2 min)
 
 Open [.github/copilot-instructions.md](../.github/copilot-instructions.md).
-> "Every request to Copilot in this repo carries these rules. Pydantic v2, structured logging, non-root Dockerfiles. I don't have to repeat them."
+> "Every request to GitHub Copilot in this repo carries these rules. Pydantic v2, structured logging, non-root Dockerfiles. I don't have to repeat them."
 
 Open [.github/instructions/python.instructions.md](../.github/instructions/python.instructions.md).
 > "Scoped via `applyTo` — only attached when Python files are in context."

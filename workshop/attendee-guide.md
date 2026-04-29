@@ -1,10 +1,10 @@
-# Attendee Guide — Copilot Workshop
+# Attendee Guide — GitHub Copilot Workshop
 
 Follow these three short steps. Total time: ~5 minutes.
 
 ## Before you start
 - Open this repo in VS Code.
-- Open the Copilot Chat panel (Ctrl/Cmd+Alt+I).
+- Open the GitHub Copilot Chat panel (Ctrl/Cmd+Alt+I).
 - Find the **mode picker** at the bottom of the chat input. You should see **Ask**, **Plan**, and **Agent**.
 
 ---
@@ -14,10 +14,10 @@ Follow these three short steps. Total time: ~5 minutes.
 Switch to **Ask** mode. Paste:
 
 ```
-What standards does this repo enforce on Copilot, and where are they defined?
+What standards does this repo enforce on GitHub Copilot, and where are they defined?
 ```
 
-You should see Copilot summarize [.github/copilot-instructions.md](../.github/copilot-instructions.md) and reference the python instructions and the `pydantic-endpoint` skill. No files are edited.
+You should see GitHub Copilot summarize [.github/copilot-instructions.md](../.github/copilot-instructions.md) and reference the python instructions and the `pydantic-endpoint` skill. No files are edited.
 
 ---
 
@@ -62,11 +62,12 @@ When it finishes, open the diff and check:
 
 | Symptom | Fix |
 |---|---|
-| No mode picker visible | Update the Copilot Chat extension. |
+| No mode picker visible | Update the GitHub Copilot Chat extension. |
 | Plan mode tries to edit | You're in Agent mode \u2014 check the picker. |
 | Skill didn't load | Reword your prompt to mention "endpoint" or "route" explicitly. |
 | Test run not offered | Tell it: "run the tests in the terminal." |
 | Output doesn't match standards | Open [.github/copilot-instructions.md](../.github/copilot-instructions.md) and confirm it's not empty. |
+
 
 ---
 

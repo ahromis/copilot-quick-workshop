@@ -1,7 +1,7 @@
 # GitHub Copilot Workshop — Agent Mode & Agent Skills
 
 **Duration:** 20 minutes
-**Audience:** Developers familiar with Copilot chat / inline completions
+**Audience:** Developers familiar with GitHub Copilot chat / inline completions
 **Goal:** Leave knowing the difference between Ask, Plan, and Agent mode, how to drive Agent mode effectively, and how to package reusable workflows as **Skills**, **Instructions**, and **Prompts**.
 
 ---
@@ -23,8 +23,8 @@
 ## 1. Modes in 60 seconds
 
 - **Ask** — Read-only Q&A about your code. No file edits.
-- **Plan** — Read-only *planning*. Copilot investigates the codebase and produces a concrete, file-by-file plan you can review before any edits happen.
-- **Agent** — Copilot picks the files, runs tools (search, terminal, tests), and iterates until the task is done. You approve actions.
+- **Plan** — Read-only *planning*. GitHub Copilot investigates the codebase and produces a concrete, file-by-file plan you can review before any edits happen.
+- **Agent** — GitHub Copilot picks the files, runs tools (search, terminal, tests), and iterates until the task is done. You approve actions.
 
 > Rule of thumb: **Ask** to learn, **Plan** to scope, **Agent** to do.
 
